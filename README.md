@@ -7,10 +7,13 @@ An AI-powered goal-based study planning assistant that transforms academic objec
 ## Project Resources
 
 PPT Deck: (Google Drive Link)
+https://drive.google.com/file/d/198-gPprPRMEszy8VwGE4dkqyEaB3cdwy/view?usp=drivesdk
 
 Demo Video: (Video Link)
+https://drive.google.com/file/d/1qcLhRFBzgoDHyuSSrc9u6cppxNAG_nIm/view?usp=drivesdk
 
 Project Summary & Diagrams: See Project_Summary.pdf
+https://drive.google.com/file/d/1DAQsMtepdpX_EumeV2wFyxTflWRR5Cyv/view?usp=drivesdk
 
 ## Overview
 
